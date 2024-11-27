@@ -1,40 +1,40 @@
 {
   "basics": {
-    "name": "Joaquin!",
+    "name": "Amine!",
     "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "image": "",
+    "email": "aminebissane@gmail.com",
+    "phone": "+34 644716350",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "Passionate about backend technologies, I specialize in leveraging Java to build robust and scalable server-side applications. My journey as a software developer is driven by a relentless curiosity to discover and implement the latest advancements in server technologies. With a deep understanding of Java and its ecosystem, I aim to create innovative solutions that power modern applications.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41005",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "aminebissane",
+        "url": "https://linkedin.com/in/aminebissane"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "aminebissane",
+        "url": "https://x.com/aminebissane"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "aminebissane",
+        "url": "https://github.com/aminebissane"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
+      "name": "aminebissane",
       "position": "Web programming communicator",
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-01-01",
