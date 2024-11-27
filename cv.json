@@ -6,9 +6,8 @@
     "email": "mohamedaminebissane@gmail.com",
     "phone": "+34 644716350",
     "url": "",
-    "summary": "Passionate about backend technologies, I specialize in leveraging Java to build robust and scalable server-side applications. My journey as a software developer is driven by a relentless curiosity to discover and implement the latest advancements in server technologies. With a deep understanding of Java and its ecosystem, I aim to create innovative solutions that power modern applications.",
+    "summary": "Passionate about backend technologies, I specialize in leveraging Java to build robust and scalable server-side applications. My journey as a software developer is driven by a relentless curiosity to discover and implement the latest advancements in server technologies.",
     "location": {
-      "address": "",
       "postalCode": "41005",
       "city": "Sevilla",
       "countryCode": "ES",
@@ -32,124 +31,57 @@
       }
     ]
   },
-  "work": [],
-  "references": [],
-  "volunteer": [],
   "education": [
     {
       "institution": "Santa Joaquin Vedruna",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Dam",
+      "area": "DAM",
       "studyType": "Grado Superior",
       "startDate": "2023-01-01",
+      "endDate": "2025-12-31",
       "courses": [
         "DB1101 - Basic SQL"
       ]
     }
   ],
-  "awards": [],
-  "certificates": [],
-  "publications": [
+  "projects": [
     {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "name": "Portfolio Website",
+      "description": "A minimalist portfolio built with Astro.",
+      "highlights": ["Responsive design", "SEO optimized"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-01",
+      "url": "https://portfolio.com",
+      "isActive": true,
+      "github": "https://github.com/aminebissane/portfolio"
+    }
+  ],
+  "references": [
+    {
+      "name": "John Doe",
+      "contact": "john.doe@example.com"
     }
   ],
   "skills": [
     {
       "name": "Java",
       "level": "Advanced",
-      "keywords": [
-        "Web development",
-        "Backend"
-      ]
+      "keywords": ["Web Development", "Backend"]
     },
     {
       "name": "CSS",
-      "level": "Good",
-      "keywords": [
-        "Web development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Good",
-      "keywords": [
-        "Web development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Good",
-      "keywords": [
-        "Web development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version control",
-        "Collaboration",
-        "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control",
-        "Collaboration",
-        "Source code",
-        "Git"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     }
   ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Advanced"
+      "fluency": "C1"
     },
     {
       "language": "English",
-      "fluency": "Advanced"
-    },
-    {
-      "language": "French",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Arabic",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "fluency": "C1"
     }
   ]
 }
