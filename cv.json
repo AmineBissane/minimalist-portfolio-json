@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Amine",
-    "label": "Backend Developer with java",
+    "label": "Backend Developer with Java",
     "image": "",
     "email": "mohamedaminebissane@gmail.com",
     "phone": "+34 644716350",
@@ -27,7 +27,7 @@
       },
       {
         "network": "GitHub",
-        "username": "amine bissane",
+        "username": "aminebissane",
         "url": "https://github.com/aminebissane"
       }
     ]
@@ -35,75 +35,95 @@
   "work": [],
   "references": [],
   "volunteer": [],
-  "education": [{
-    "institution": "Santa Joaquin vedruna",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Dam",
-    "studyType": "Grado superior",
-    "startDate": "2023-01-01",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Santa Joaquin Vedruna",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Dam",
+      "studyType": "Grado Superior",
+      "startDate": "2023-01-01",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
   "awards": [],
   "certificates": [],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "Java",
-      "level": "Advenced",
+      "level": "Advanced",
       "keywords": [
-        "Web development", "Backend"
+        "Web development",
+        "Backend"
       ]
     },
     {
       "name": "CSS",
-      "level": "good",
+      "level": "Good",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web development",
+        "Frontend",
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "good",
+      "level": "Good",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Web development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "good",
+      "level": "Good",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Web development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Databases",
+        "SQL",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "Version control",
+        "Collaboration",
+        "Source code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        "Version control",
+        "Collaboration",
+        "Source code",
+        "Git"
       ]
-    },
+    }
   ],
   "languages": [
     {
@@ -123,12 +143,13 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ]
 }
